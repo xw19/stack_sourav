@@ -12,5 +12,5 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "linked_list_sourav",
     ["= 0.0.8"]
   s.add_development_dependency "linked_list_sourav",
-    ["= 0.0.8"]
+    [">= 0.0.7"]
 end
