@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Sourav Moitra"]
   s.email       = 'sourav.moitr@gmail.con'
   s.homepage    = 'https://github.com/xw19/stack_sourav'
-  s.files       = ["lib/linked_list.rb"]
+  s.files       = ["lib/stack.rb"]
   s.license       = 'MIT'
   s.add_runtime_dependency "linked_list_sourav",
     ["= 0.0.8"]

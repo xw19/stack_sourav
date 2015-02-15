@@ -1,6 +1,6 @@
 class Stack
   class Singly
   end
-  class Doubly
+  class Doubly  
   end
 end
