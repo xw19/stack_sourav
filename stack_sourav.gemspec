@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'stack_sourav'
-  s.version     = '0.0.2pre'
+  s.version     = '0.0.2'
   s.date        = '2015-02-15'
   s.summary     = "Stack implementation for ruby"
   s.description = "This is a simple stack implementation for ruby it has array, singly and doubly linked list implementation"
